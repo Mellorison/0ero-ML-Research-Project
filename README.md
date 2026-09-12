@@ -1,1 +1,1 @@
-# 0ero.Prompt Project for AI/ML Inference
+# 0ero ML Research Project for AI/ML Inference
